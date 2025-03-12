@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:12-03-2025
-## Register Number:212224040002
-## Name:Aakil Ahamed.S
+## Register Number: 212224040002
+## Name: Aakil Ahamed.S
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
